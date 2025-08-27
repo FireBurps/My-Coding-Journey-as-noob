@@ -112,14 +112,3 @@ except socket.gaierror:
 except socket.error:
 		print("\ Server not responding !!!!")
 		sys.exit()
-
-# 50.87.253.113
-# 100.115.35.154
-# 184.168.115.128
-# 172.217.27.163
-# 20.192.1.43
-
-# PayPal account credentials:
-
-# e-mail: bahaikahamdebbarma704@gmail.com
-# passwd: gtefti7err2451vz32t4
